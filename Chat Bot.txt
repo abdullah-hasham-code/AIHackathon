@@ -1,0 +1,18 @@
+Hackathon Task Plan
+
+Team setup:
+- 3 Developers
+- 1 Presenter
+
+Tasks and ownership:
+1) Problem analysis - All developers
+2) Problem selection - All developers + Presenter
+3) Business solution brainstorming - All team members
+4) UI design on paper - Dev 1 + Dev 2
+5) UI development - Dev 1 + Dev 2 + Dev 3
+6) Testing - Dev 3 (lead) + Dev 1
+7) Demo video script and recording - Presenter (lead) + Dev 2
+8) Final submission (6 PM to 8 PM PST) - Presenter + Dev 1
+
+
+
